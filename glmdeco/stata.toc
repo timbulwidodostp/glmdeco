@@ -1,0 +1,5 @@
+0
+1
+2
+3
+p arhomme Arellano and Bonhomme (2017) quantile selection model (by Martin Biewen and Pascal Erhardt, 2020) Use arhomme With STATA 19
