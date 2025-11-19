@@ -1,6 +1,8 @@
 # glmdeco
 Detailed Decomposition of Average (Mean) Outcome Differentials in Generalized Linear Models Use glmdeco With STATA 19
 
+https://www.youtube.com/watch?v=Y06u6SMLFTA
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
